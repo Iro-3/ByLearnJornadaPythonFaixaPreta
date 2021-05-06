@@ -1,7 +1,7 @@
 def Descobrir_Hipotenusa():
   
- cateto = float(input('Primeiro Cateto '))
- cateto2 = float(input('Segundo Cateto '))
+ cateto = float(input('Valor do primeiro Cateto '))
+ cateto2 = float(input('Valor do segundo Cateto '))
 
  quadrado = cateto * cateto
  quadrado2 = cateto2 * cateto2 
